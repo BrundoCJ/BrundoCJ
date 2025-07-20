@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Bruno Conrado Jeanini]!
+# 👋 Olá, eu sou Bruno Conrado Jeanini!
 
 💻 **Engheiro de Software (Cursando) | Entusiasta de Tecnologia | Gosto de jogar nas horas vagas**  
 🚀 Sempre em busca de aprender algo novo e criar projetos incríveis.
